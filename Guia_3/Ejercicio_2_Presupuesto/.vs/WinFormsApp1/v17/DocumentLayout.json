@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF36A317-72C2-47B5-A532-00B315B146A5}|WinFormsApp1\\WinFormsApp1.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\guia_3\\ejercicio_2_presupuesto\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF36A317-72C2-47B5-A532-00B315B146A5}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF36A317-72C2-47B5-A532-00B315B146A5}|WinFormsApp1\\WinFormsApp1.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\guia_3\\ejercicio_2_presupuesto\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF36A317-72C2-47B5-A532-00B315B146A5}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF36A317-72C2-47B5-A532-00B315B146A5}|WinFormsApp1\\WinFormsApp1.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\guia_3\\ejercicio_2_presupuesto\\winformsapp1\\datoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF36A317-72C2-47B5-A532-00B315B146A5}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\datoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF36A317-72C2-47B5-A532-00B315B146A5}|WinFormsApp1\\WinFormsApp1.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\guia_3\\ejercicio_2_presupuesto\\winformsapp1\\models\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF36A317-72C2-47B5-A532-00B315B146A5}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:28:26.894Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatosCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\DatosCliente.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DatosCliente.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\DatosCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\DatosCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:29:20.512Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Presupuesto.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Presupuesto.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Presupuesto.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Presupuesto.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Presupuesto.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:43:28.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:35:04.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
