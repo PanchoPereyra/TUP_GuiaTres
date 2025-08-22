@@ -56,6 +56,7 @@
             btnAgregar.TabIndex = 1;
             btnAgregar.Text = "Agregar Producto";
             btnAgregar.UseVisualStyleBackColor = true;
+            btnAgregar.Click += btnAgregar_Click;
             // 
             // btnVer
             // 
@@ -65,6 +66,7 @@
             btnVer.TabIndex = 2;
             btnVer.Text = "Ver Presupuesto";
             btnVer.UseVisualStyleBackColor = true;
+            btnVer.Click += btnVer_Click;
             // 
             // btnCerrar
             // 
@@ -74,6 +76,7 @@
             btnCerrar.TabIndex = 3;
             btnCerrar.Text = "Cerrar";
             btnCerrar.UseVisualStyleBackColor = true;
+            btnCerrar.Click += btnCerrar_Click_1;
             // 
             // label1
             // 
@@ -116,7 +119,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(322, 271);
+            ClientSize = new Size(454, 271);
             Controls.Add(lbDireccion);
             Controls.Add(lbCliente);
             Controls.Add(label2);

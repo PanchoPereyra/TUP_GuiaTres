@@ -16,5 +16,10 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
+
+        private void cbProducto_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            tbLargo.Enabled = cbProducto.SelectedIndex == 1;
+        }
     }
 }

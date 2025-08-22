@@ -64,8 +64,7 @@
         }
 
         #endregion
-
-        private TextBox tbPresupuesto;
         private Button btnCerrar;
+        public TextBox tbPresupuesto;
     }
 }

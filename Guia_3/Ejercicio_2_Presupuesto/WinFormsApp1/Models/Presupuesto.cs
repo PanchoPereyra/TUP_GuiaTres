@@ -59,5 +59,12 @@ namespace WinFormsApp1.Models
         {
             presupuestados.Add(nuevo);
         }
+
+        public Producto VerProducto(int idx)
+        {
+            if (idx >= 0 && idx < CantidadProductos)
+                return presupuestados[idx] as Producto;
+            return null;
+        }
     }
 }

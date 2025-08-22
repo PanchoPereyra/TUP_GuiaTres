@@ -107,9 +107,9 @@
 
         private Label label1;
         private Label label2;
-        private Button btnAceptar;
         private Button btnCancelar;
         public TextBox tbNombre;
         public TextBox tbDireccion;
+        public Button btnAceptar;
     }
 }

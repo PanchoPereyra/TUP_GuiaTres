@@ -35,11 +35,11 @@
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
-            tbProducto = new TextBox();
             tbLargo = new TextBox();
             tbDescripcion = new TextBox();
             tbPrecio = new TextBox();
-            tbMaterial = new TextBox();
+            cbProducto = new ComboBox();
+            cbMaterial = new ComboBox();
             SuspendLayout();
             // 
             // btnAceptar
@@ -105,13 +105,6 @@
             label5.TabIndex = 6;
             label5.Text = "Material:";
             // 
-            // tbProducto
-            // 
-            tbProducto.Location = new Point(135, 26);
-            tbProducto.Name = "tbProducto";
-            tbProducto.Size = new Size(144, 23);
-            tbProducto.TabIndex = 7;
-            // 
             // tbLargo
             // 
             tbLargo.Location = new Point(135, 65);
@@ -133,23 +126,34 @@
             tbPrecio.Size = new Size(144, 23);
             tbPrecio.TabIndex = 10;
             // 
-            // tbMaterial
+            // cbProducto
             // 
-            tbMaterial.Location = new Point(135, 194);
-            tbMaterial.Name = "tbMaterial";
-            tbMaterial.Size = new Size(144, 23);
-            tbMaterial.TabIndex = 11;
+            cbProducto.FormattingEnabled = true;
+            cbProducto.Items.AddRange(new object[] { "Mesa" });
+            cbProducto.Location = new Point(135, 26);
+            cbProducto.Name = "cbProducto";
+            cbProducto.Size = new Size(144, 23);
+            cbProducto.TabIndex = 12;
+            cbProducto.SelectedIndexChanged += cbProducto_SelectedIndexChanged;
+            // 
+            // cbMaterial
+            // 
+            cbMaterial.FormattingEnabled = true;
+            cbMaterial.Location = new Point(135, 194);
+            cbMaterial.Name = "cbMaterial";
+            cbMaterial.Size = new Size(144, 23);
+            cbMaterial.TabIndex = 13;
             // 
             // FormAgregar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(335, 329);
-            Controls.Add(tbMaterial);
+            Controls.Add(cbMaterial);
+            Controls.Add(cbProducto);
             Controls.Add(tbPrecio);
             Controls.Add(tbDescripcion);
             Controls.Add(tbLargo);
-            Controls.Add(tbProducto);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
@@ -172,10 +176,10 @@
         private Label label3;
         private Label label4;
         private Label label5;
-        private TextBox tbProducto;
-        private TextBox tbLargo;
-        private TextBox tbDescripcion;
-        private TextBox tbPrecio;
-        private TextBox tbMaterial;
+        public TextBox tbLargo;
+        public TextBox tbDescripcion;
+        public TextBox tbPrecio;
+        public ComboBox cbProducto;
+        public ComboBox cbMaterial;
     }
 }

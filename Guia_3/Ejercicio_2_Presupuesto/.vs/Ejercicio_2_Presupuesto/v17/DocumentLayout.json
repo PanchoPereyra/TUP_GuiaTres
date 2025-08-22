@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Silla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp1\\Models\\Silla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp1\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp1\\Models\\Presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp1\\Models\\Mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:20:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Silla.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Silla.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Silla.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Silla.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Silla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:20:12.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Producto.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Producto.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:20:06.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Presupuesto.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Presupuesto.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Presupuesto.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Presupuesto.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Presupuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:20:04.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Mesa.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Mesa.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\Guia_3\\Ejercicio_2_Presupuesto\\WinFormsApp1\\Models\\Mesa.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Mesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:19:59.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
